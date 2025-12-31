@@ -1,28 +1,16 @@
-name_1 = 100
-name_2 = 20
+#string = 'Hello, Word'
+#if 'Hello' not in string:
+ #   print('Hello, String')
 
-name_3 = name_1 + name_2
 
-print(name_3)
+#elif 'Word' in string:
+ #   print('Word in string')
 
-name_1 = 100
-name_2 = 20
+#else: 
 
-name_3 = name_1 -name_2
+ #   print('Word is not string')
 
-print(name_3)
 
-name_1 = 100
-name_2 = 20
 
-name_3 = name_1 * name_2
-
-print(name_3)
-
-name_1 = 100
-name_2 = 20
-
-name_3 = name_1 / name_2
-
-print(name_3)
-
+for x in 5,3,7: 
+    print(x ** 2)
