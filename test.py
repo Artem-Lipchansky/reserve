@@ -12,5 +12,5 @@
 
 
 
-for x in 5,3,7: 
+for x in 5,3,7,9: 
     print(x ** 2)
